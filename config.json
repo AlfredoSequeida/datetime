@@ -1,5 +1,7 @@
 {
   "name": "datetime",
+  "developer": "Alfredo Sequeida",
+  "version" : "0.0.1",
   "commands": [
     "what time is it",
     "what day is it",
