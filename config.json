@@ -9,6 +9,7 @@
     "what's today's date",
     "what's the date"
   ],
+  "icon": "icon.png",
   "entry-point": "datetime.datetime",
   "languages": ["en"]
 }
