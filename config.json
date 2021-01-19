@@ -10,6 +10,6 @@
     "what's the date"
   ],
   "icon": "icon.png",
-  "entry-point": "datetime.datetime",
+  "entry-point": "datetime",
   "languages": ["en"]
 }
